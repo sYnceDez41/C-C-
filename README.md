@@ -1,2 +1,3 @@
-# C-C-
-basic programs of C &amp; C++
+# C-C++
+Basics of C &amp; C++ programs in a simplified manner.
+{author:@DaimZahoorCSE}
